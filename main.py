@@ -1,3 +1,4 @@
-from funcs import foo
+from funcs import foo, fooo
 
 foo()
+fooo()
